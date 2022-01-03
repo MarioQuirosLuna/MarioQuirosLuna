@@ -1,5 +1,7 @@
-# ![https://marioql-dev.vercel.app/](https://user-images.githubusercontent.com/37676736/147899698-b0b4fff2-e816-42b9-9be7-ffcc58acdee0.jpg) Hello, my name is Mario Quirós Luna 👋
-
+<p align="center" width="300">
+   <a src="https://marioql-dev.vercel.app/"><img align="center" width="200" src="https://user-images.githubusercontent.com/37676736/147899698-b0b4fff2-e816-42b9-9be7-ffcc58acdee0.jpg" /></a>
+   <h3 align="center">¡Hello, my name is Mario Quirós Luna 👋</h3>
+</p>
 
 **MarioQuirosLuna/MarioQuirosLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
