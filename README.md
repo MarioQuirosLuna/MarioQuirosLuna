@@ -72,6 +72,11 @@ Eager to learn many more tools and technologies.
 Currently studying in the fourth year of Business Informatics at the University of Costa Rica
 
 ## Extra Certifications and Courses📝
+<a href='https://www.linkedin.com/feed/update/urn:li:activity:7079924145114771456/' target='_blank'>
+  <img width='20px' src='https://res.cloudinary.com/dusx4zdpz/image/upload/v1687985829/portfolio/chat_1_bv0r38.png' alt='Logo' />
+   Desarrollo de Apps Moviles (2023) - Google Active
+</a>
+</br>
 <a href='https://www.linkedin.com/learning/certificates/43b4733dd555a79fb0d6ae21617386106a6104889fb50f4dbce151604824ac11' target='_blank'>
   <img width='20px' src='https://res.cloudinary.com/dusx4zdpz/image/upload/v1638987539/portfolio/node_k24mps.png' alt='Logo' />
    Learning NodeJS (2023) - LinkedIn
