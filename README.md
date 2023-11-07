@@ -66,13 +66,23 @@ With great interest in finding challenges, working in teams of positive people a
 Eager to learn many more tools and technologies.
 
 ### I am interested in learning
-![GraphQL](https://custom-icon-badges.herokuapp.com/badge/-GraphQL-%23E10098?style=flat&logo=GraphQL&logoColor=white&labelColor=111)
-![Python](https://custom-icon-badges.herokuapp.com/badge/-Python-%233776AB?style=flat&logo=Python&logoColor=white&labelColor=111)
+![Android](https://custom-icon-badges.herokuapp.com/badge/-Android-%233DDC84?style=flat&logo=Android&logoColor=white&labelColor=111)
+![IOS](https://custom-icon-badges.herokuapp.com/badge/-IOS-%23FFFFFF?style=flat&logo=IOS&logoColor=white&labelColor=111)
 
 ## Studies📘
 Currently studying in the fourth year of Business Informatics at the University of Costa Rica
 
 ## Extra Certifications and Courses📝
+<a href='https://www.udemy.com/certificate/UC-81884da0-6492-4a2f-bc8a-d63a2693dbd7/' target='_blank'>
+  <img width='20px' src='https://res.cloudinary.com/dusx4zdpz/image/upload/v1699389705/portfolio/flutter_awlreq.png' alt='Logo' />
+   Learn Flutter and Dart to create Android and IOS apps (2023) - Udemy
+</a>
+</br>
+<a href='https://coursera.org/share/b79ba831134bbef23c36768ca071b9d4' target='_blank'>
+  <img width='20px' src='https://res.cloudinary.com/dusx4zdpz/image/upload/v1638987539/portfolio/autodidact_ymsrlc.png' alt='Logo' />
+   Introducción al desarrollo front-end (2023) - Coursera
+</a>
+</br>
 <a href='https://www.linkedin.com/feed/update/urn:li:activity:7079924145114771456/' target='_blank'>
   <img width='20px' src='https://res.cloudinary.com/dusx4zdpz/image/upload/v1687985829/portfolio/chat_1_bv0r38.png' alt='Logo' />
    Desarrollo de Apps Moviles (2023) - Google Active
