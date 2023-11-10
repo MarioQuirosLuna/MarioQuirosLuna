@@ -7,7 +7,7 @@
 
 </br>
 
-🔍 I am characterized by wanting to obtain a lot of knowledge of the things that I like, organized, self-taught, passionate about programming, 🖥️ technology and 🕹️ video games.
+🔍 I am characterized by wanting to obtain a lot of knowledge of the things that I like, organized, self-taught, passionate about programming and 🖥️ technology.
 
 With great interest in finding challenges, working in teams of positive people and learning many things. 😎
 
@@ -15,35 +15,29 @@ With great interest in finding challenges, working in teams of positive people a
 
 ## Technologies that I know📖
 
-### *Programing languajes*
+### *Technologies*
 
-![HTML](https://custom-icon-badges.herokuapp.com/badge/-HTML-%23E34F26?style=flat&logo=html5&logoColor=white&labelColor=111)
-![CSS](https://custom-icon-badges.herokuapp.com/badge/-CSS-%231572b6?style=flat&logo=css3&logoColor=white&labelColor=111)
+![Kotlin](https://custom-icon-badges.herokuapp.com/badge/-Kotlin-%237f52ff?style=flat&logo=kotlin&logoColor=white&labelColor=111)
+![Java](https://custom-icon-badges.herokuapp.com/badge/-Java-%23007396?style=flat&logo=java&logoColor=white&labelColor=111)
+![Android](https://custom-icon-badges.herokuapp.com/badge/-Android-%233DDC84?style=flat&logo=Android&logoColor=white&labelColor=111)
 ![Javascript](https://custom-icon-badges.herokuapp.com/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=111)
 ![Typescript](https://custom-icon-badges.herokuapp.com/badge/-Typescript-%23007acc?style=flat&logo=typescript&logoColor=white&labelColor=111)
-![Java](https://custom-icon-badges.herokuapp.com/badge/-Java-%23007396?style=flat&logo=java&logoColor=white&labelColor=111)
-![PHP](https://custom-icon-badges.herokuapp.com/badge/-PHP-%23777BB4?style=flat&logo=php&logoColor=white&labelColor=111)
-![C#](https://custom-icon-badges.herokuapp.com/badge/-CSharp-%23239120?style=flat&logo=csharp&logoColor=white&labelColor=111)
-![Android](https://custom-icon-badges.herokuapp.com/badge/-Android-%233DDC84?style=flat&logo=Android&logoColor=white&labelColor=111)
+![HTML](https://custom-icon-badges.herokuapp.com/badge/-HTML-%23E34F26?style=flat&logo=html5&logoColor=white&labelColor=111)
+![CSS](https://custom-icon-badges.herokuapp.com/badge/-CSS-%231572b6?style=flat&logo=css3&logoColor=white&labelColor=111)
 
-### *Frameworks and libraries*
 ![Flutter](https://custom-icon-badges.herokuapp.com/badge/-Flutter-%23042B59?style=flat&logo=flutter&logoColor=white&labelColor=111) 
-![Kotlin](https://custom-icon-badges.herokuapp.com/badge/-Kotlin-%237f52ff?style=flat&logo=kotlin&logoColor=white&labelColor=111)
-![React](https://custom-icon-badges.herokuapp.com/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=white&labelColor=111)
 ![ReactNative](https://custom-icon-badges.herokuapp.com/badge/-ReactNative-%2361DAFB?style=flat&logo=react&logoColor=white&labelColor=111)
+![React](https://custom-icon-badges.herokuapp.com/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=white&labelColor=111)
 ![Angular](https://custom-icon-badges.herokuapp.com/badge/-Angular-%23DD0031?style=flat&logo=angular&logoColor=white&labelColor=111)
-![Express](https://custom-icon-badges.herokuapp.com/badge/-Express-%23000000?style=flat&logo=express&logoColor=white&labelColor=111)
-![Node](https://custom-icon-badges.herokuapp.com/badge/-Node-%23339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=111)
 ![.Net](https://custom-icon-badges.herokuapp.com/badge/-.NET-%23512BD4?style=flat&logo=.NET&logoColor=white&labelColor=111)
 ![JQuery](https://custom-icon-badges.herokuapp.com/badge/-JQuery-%230769AD?style=flat&logo=jQuery&logoColor=white&labelColor=111)
 
-![StyledComponents](https://custom-icon-badges.herokuapp.com/badge/-StyledComponents-%23DB7093?style=flat&logo=styled-components&logoColor=white&labelColor=111)
 ![Bootstrap5](https://custom-icon-badges.herokuapp.com/badge/-Bootstrap5-%237952B3?style=flat&logo=bootstrap&logoColor=white&labelColor=111)
 ![Sass](https://custom-icon-badges.herokuapp.com/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=white&labelColor=111)
 
 ### *Databases and cloud hosting*
-![MySQL](https://custom-icon-badges.herokuapp.com/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white&labelColor=111)
 ![MSSQL](https://custom-icon-badges.herokuapp.com/badge/-MSSQL-%23CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=white&labelColor=111)
+![MySQL](https://custom-icon-badges.herokuapp.com/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white&labelColor=111)
 ![Mongo](https://custom-icon-badges.herokuapp.com/badge/-Mongo-%2347A248?style=flat&logo=mongodb&logoColor=white&labelColor=111)
 ![PostgreSQL](https://custom-icon-badges.herokuapp.com/badge/-PostgreSQL-%234169E1?style=flat&logo=PostgreSQL&logoColor=white&labelColor=111)
 
@@ -52,17 +46,10 @@ With great interest in finding challenges, working in teams of positive people a
 ![GitHub](https://custom-icon-badges.herokuapp.com/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white&labelColor=111)
 ![ESlint](https://custom-icon-badges.herokuapp.com/badge/-ESlint-%234B32C3?style=flat&logo=ESlint&logoColor=white&labelColor=111)
 ![Postman](https://custom-icon-badges.herokuapp.com/badge/-Postman-%23FF6C37?style=flat&logo=Postman&logoColor=white&labelColor=111)
-![PowerBI](https://custom-icon-badges.herokuapp.com/badge/-PowerBI-%23F2C811?style=flat&logo=PowerBI&logoColor=white&labelColor=111)
 
-![Heroku](https://custom-icon-badges.herokuapp.com/badge/-Heroku-%23430098?style=flat&logo=Heroku&logoColor=white&labelColor=111)
-![Vercel](https://custom-icon-badges.herokuapp.com/badge/-Vercel-%23000000?style=flat&logo=Vercel&logoColor=white&labelColor=111)
-
+![AndroidStudio](https://custom-icon-badges.herokuapp.com/badge/-AndroidStudio-%233DDC84?style=flat&logo=AndroidStudio&logoColor=white&labelColor=111)
 ![VisualStudioCode](https://custom-icon-badges.herokuapp.com/badge/-VisualStudioCode-%23007ACC?style=flat&logo=VisualStudioCode&logoColor=white&labelColor=111)
 ![VisualStudio](https://custom-icon-badges.herokuapp.com/badge/-VisualStudio-%235C2D91?style=flat&logo=VisualStudio&logoColor=white&labelColor=111)
-![AndroidStudio](https://custom-icon-badges.herokuapp.com/badge/-AndroidStudio-%233DDC84?style=flat&logo=AndroidStudio&logoColor=white&labelColor=111)
-![NetBeans](https://custom-icon-badges.herokuapp.com/badge/-NetBeans-%231B6AC6?style=flat&logo=ApacheNetBeansIDE&logoColor=white&labelColor=111)
-![Eclipse](https://custom-icon-badges.herokuapp.com/badge/-Eclipse-%232C2255?style=flat&logo=EclipseIDE&logoColor=white&labelColor=111)
-
 
 Eager to learn many more tools and technologies.
 
@@ -74,6 +61,11 @@ Eager to learn many more tools and technologies.
 Currently studying in the fourth year of Business Informatics at the University of Costa Rica
 
 ## Extra Certifications and Courses📝
+<a href='https://www.udemy.com/certificate/UC-82c11b1c-d1ff-4d26-ad12-158b48ca1c15/' target='_blank'>
+  <img width='20px' src='https://res.cloudinary.com/dusx4zdpz/image/upload/v1678570423/portfolio/android_xvzuym.png' alt='Logo' />
+   Real Android App with Kotlin (2023) - Udemy
+</a>
+</br>
 <a href='https://www.udemy.com/certificate/UC-81884da0-6492-4a2f-bc8a-d63a2693dbd7/' target='_blank'>
   <img width='20px' src='https://res.cloudinary.com/dusx4zdpz/image/upload/v1699389705/portfolio/flutter_awlreq.png' alt='Logo' />
    Learn Flutter and Dart to create Android and IOS apps (2023) - Udemy
