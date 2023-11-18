@@ -61,6 +61,11 @@ Eager to learn many more tools and technologies.
 Currently studying in the fourth year of Business Informatics at the University of Costa Rica
 
 ## Extra Certifications and Courses📝
+<a href='https://www.udemy.com/certificate/UC-156a0478-df07-4fe6-8067-164327fa91df/' target='_blank'>
+  <img width='20px' src='https://res.cloudinary.com/dusx4zdpz/image/upload/v1700336936/AWS_pcrwqo.jpg' alt='Logo' />
+   Amazon AWS Cloud Practitioner (2023) - Udemy
+</a>
+</br>
 <a href='https://www.udemy.com/certificate/UC-82c11b1c-d1ff-4d26-ad12-158b48ca1c15/' target='_blank'>
   <img width='20px' src='https://res.cloudinary.com/dusx4zdpz/image/upload/v1678570423/portfolio/android_xvzuym.png' alt='Logo' />
    Real Android App with Kotlin (2023) - Udemy
