@@ -17,15 +17,15 @@ With great interest in finding challenges, working in teams of positive people a
 
 ### *Technologies*
 
-![Kotlin](https://custom-icon-badges.herokuapp.com/badge/-Kotlin-%237f52ff?style=flat&logo=kotlin&logoColor=white&labelColor=111)
 ![Java](https://custom-icon-badges.herokuapp.com/badge/-Java-%23007396?style=flat&logo=java&logoColor=white&labelColor=111)
-![Android](https://custom-icon-badges.herokuapp.com/badge/-Android-%233DDC84?style=flat&logo=Android&logoColor=white&labelColor=111)
 ![Javascript](https://custom-icon-badges.herokuapp.com/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=111)
 ![Typescript](https://custom-icon-badges.herokuapp.com/badge/-Typescript-%23007acc?style=flat&logo=typescript&logoColor=white&labelColor=111)
+![Flutter](https://custom-icon-badges.herokuapp.com/badge/-Flutter-%23042B59?style=flat&logo=flutter&logoColor=white&labelColor=111) 
 ![HTML](https://custom-icon-badges.herokuapp.com/badge/-HTML-%23E34F26?style=flat&logo=html5&logoColor=white&labelColor=111)
 ![CSS](https://custom-icon-badges.herokuapp.com/badge/-CSS-%231572b6?style=flat&logo=css3&logoColor=white&labelColor=111)
 
-![Flutter](https://custom-icon-badges.herokuapp.com/badge/-Flutter-%23042B59?style=flat&logo=flutter&logoColor=white&labelColor=111) 
+![SpringBoot](https://custom-icon-badges.herokuapp.com/badge/-SpringBoot-%236db33f?style=flat&logo=springboot&logoColor=white&labelColor=111) 
+![Backbonejs](https://custom-icon-badges.herokuapp.com/badge/-BackboneJs-%23F7DF1E?style=flat&logo=backbone.js&logoColor=white&labelColor=111) 
 ![ReactNative](https://custom-icon-badges.herokuapp.com/badge/-ReactNative-%2361DAFB?style=flat&logo=react&logoColor=white&labelColor=111)
 ![React](https://custom-icon-badges.herokuapp.com/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=white&labelColor=111)
 ![Angular](https://custom-icon-badges.herokuapp.com/badge/-Angular-%23DD0031?style=flat&logo=angular&logoColor=white&labelColor=111)
@@ -35,7 +35,10 @@ With great interest in finding challenges, working in teams of positive people a
 ![Bootstrap5](https://custom-icon-badges.herokuapp.com/badge/-Bootstrap5-%237952B3?style=flat&logo=bootstrap&logoColor=white&labelColor=111)
 ![Sass](https://custom-icon-badges.herokuapp.com/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=white&labelColor=111)
 
+![Android](https://custom-icon-badges.herokuapp.com/badge/-Android-%233DDC84?style=flat&logo=Android&logoColor=white&labelColor=111)
+
 ### *Databases and cloud hosting*
+![OracleSQL](https://custom-icon-badges.herokuapp.com/badge/-OracleSQL-%23F05032?style=flat&logo=oraclesql&logoColor=white&labelColor=111)
 ![MSSQL](https://custom-icon-badges.herokuapp.com/badge/-MSSQL-%23CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=white&labelColor=111)
 ![MySQL](https://custom-icon-badges.herokuapp.com/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white&labelColor=111)
 ![Mongo](https://custom-icon-badges.herokuapp.com/badge/-Mongo-%2347A248?style=flat&logo=mongodb&logoColor=white&labelColor=111)
@@ -61,6 +64,11 @@ Eager to learn many more tools and technologies.
 Currently studying in the fourth year of Business Informatics at the University of Costa Rica
 
 ## Extra Certifications and Courses📝
+<a href='https://www.udemy.com/certificate/UC-6dd368e6-9aa4-4c5a-80b9-16411cbefaa3/' target='_blank'>
+  <img width='20px' src='https://res.cloudinary.com/dusx4zdpz/image/upload/v1638987539/portfolio/autodidact_ymsrlc.png' alt='Logo' />
+   Microservicios Spring Boot, Spring Cloud Netflix Eureka (2025) - Udemy
+</a>
+</br>
 <a href='https://www.udemy.com/certificate/UC-156a0478-df07-4fe6-8067-164327fa91df/' target='_blank'>
   <img width='20px' src='https://res.cloudinary.com/dusx4zdpz/image/upload/v1700336936/AWS_pcrwqo.jpg' alt='Logo' />
    Amazon AWS Cloud Practitioner (2023) - Udemy
